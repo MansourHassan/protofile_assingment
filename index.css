@@ -1,0 +1,79 @@
+body{
+text-align:center;
+font-family: 'Sacramen';
+background-color: #fff;
+}
+/* .profile{
+  text-align: left;
+} */
+h1{
+margin: 50px 10% auto 10%;
+/* width: 10%; */
+font-family: 'Sacramento';
+color: #66BFBF;
+line-height: 2;
+}
+/* div{
+  background-color: #f5b0be;
+} */
+h2{
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+h3{
+  color:  #11999E;
+}
+hr{
+  border: dotted #66bfbf 5px ;
+  width: 5%;
+  border-bottom: none;
+  margin: 10px auto;
+}
+span{
+  background-color: blue;
+  display:inline-block;
+}
+.cloudTOP{
+  /* position: absolute; */
+  margin: 10% auto auto 45% ;
+}
+.cloudBottom{
+  position:absolute;
+  margin: auto;
+}
+.mountain{
+  /* position: absolute; */
+     margin: auto;
+}
+.contact-me{
+  border-radius: 40%;
+  line-height: 2;
+  text-align: center;
+}  /* classes to make the image cyrcle*/
+.skills{
+  border-radius:50%;
+  width: 25%;
+  text-align: center;
+  margin: auto;
+}
+.skill-row{
+  float: left;
+}
+.MYIMAGE{
+  margin: 40px 0 0 0;
+  border-radius: 50%;
+}
+.intro{
+  width: 30%;
+  margin: auto;
+}
+.SkillsImage{
+  border-radius: 50%;
+}
+.contact{
+  width: 25%;
+}
+.bottom-container{
+  text-align: left;
+}
